@@ -1,9 +1,10 @@
 # wtf-is-clojure
 
 A simple introduction to clojure.
-Please, be aware that some branchs are is in portuguese, the goal is to democratize the knowledge
+Please, be aware that some branchs are not in english, since it can be redirect to specific groups of people. 
+The goal is to democratize the knowledge, always.
 
-Everything here is a compile of:
+### Everything here is a compile of:
 
 - My own path to learn clojure at [nubank] (https://nubank.com.br/en/)
 - [clojure for brave and true](https://www.braveclojure.com/)
