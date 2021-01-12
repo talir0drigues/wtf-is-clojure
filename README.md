@@ -20,7 +20,7 @@ Have fun ;)
 
 ### roadsec@home
 
-the introduction to cloure presented at roadsec@home in Brazil
+the introduction to clojure presented at roadsec@home in Brazil
 
 ## License
 
