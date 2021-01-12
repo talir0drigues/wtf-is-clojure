@@ -7,12 +7,13 @@ The goal is to democratize the knowledge, always.
 ### Everything here is a compile of:
 
 - My own path to learn clojure at [nubank](https://nubank.com.br/en/)
+- [Programing clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/) in my humble opinion is the best of for ppl that come from Java and OO world.
 - [clojure for brave and true](https://www.braveclojure.com/)
-- [Programing clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
 
 ## Usage
 
 Feel free to fork, learn, experiment. Clojure is a pretty powerfull language, the skies are the limit (or not) here.
+
 Have fun ;)
 
 ## License
