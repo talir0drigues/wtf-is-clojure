@@ -6,9 +6,9 @@ The goal is to democratize the knowledge, always.
 
 ### Everything here is a compile of:
 
-- My own path to learn clojure at [nubank] (https://nubank.com.br/en/)
+- My own path to learn clojure at [nubank](https://nubank.com.br/en/)
 - [clojure for brave and true](https://www.braveclojure.com/)
-- [Programing clojure] (https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
+- [Programing clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
 
 ## Usage
 
