@@ -1,10 +1,18 @@
 # wtf-is-clojure
 
-A Clojure library designed to ... well, that part is up to you.
+A simple introduction to clojure.
+Please, be aware that some branchs are is in portuguese, the goal is to democratize the knowledge
+
+Everything here is a compile of:
+
+- My own path to learn clojure at [nubank] (https://nubank.com.br/en/)
+- [clojure for brave and true](https://www.braveclojure.com/)
+- [Programing clojure] (https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
 
 ## Usage
 
-FIXME
+Feel free to fork, learn, experiment. Clojure is a pretty powerfull language, the skies are the limit (or not) here.
+Have fun ;)
 
 ## License
 
